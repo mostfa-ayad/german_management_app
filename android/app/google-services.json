@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835835222811",
+    "project_id": "germanproduct",
+    "storage_bucket": "germanproduct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835835222811:android:7f6d9073236ff9b62291be",
+        "android_client_info": {
+          "package_name": "com.example.german_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCer_Of9cbihAFQ03MUunJm6Z1qzSYzyVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
